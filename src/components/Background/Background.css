@@ -1,0 +1,48 @@
+.space-box {
+  width: 87%;
+  margin: 0 auto;
+}
+.back-img img {
+  width: 77%;
+  margin-left: 100px;
+}
+.back-img {
+  /* border: 1px solid white; */
+}
+.back-clr {
+  background: linear-gradient(to bottom, rgb(245, 84, 35), rgb(241, 5, 5));
+  padding: 40px 0;
+  position: relative;
+}
+.text-box {
+  width: 80%;
+  margin: 0 auto;
+  margin-top: -60px;
+  color: white;
+}
+.text-box p {
+  font-size: 2rem;
+}
+.wave-box {
+  width: 100%;
+  position: absolute;
+  /* margin-top: -2rem; */
+}
+.custom-shape-divider-top-1617821856 {
+  position: absolute;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+}
+
+.custom-shape-divider-top-1617821856 svg {
+  position: relative;
+  display: block;
+  width: calc(100% + 1.3px);
+  height: 44px;
+}
+
+.custom-shape-divider-top-1617821856 .shape-fill {
+  fill: #f10505;
+}

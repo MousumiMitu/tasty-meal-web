@@ -1,0 +1,27 @@
+.meal-container {
+  margin: 3rem auto;
+}
+.card-box {
+  width: 30%;
+  height: 22rem;
+  margin: 2rem auto;
+  padding: 1rem;
+  border-radius: 10px;
+  box-shadow: 1px 1px 7px gray;
+  transition: all ease 0.3s;
+  cursor: pointer;
+}
+.card-box:hover {
+  transform: scale(0.9);
+}
+
+.img-box {
+  height: 17rem;
+  text-align: center;
+}
+.img-box img {
+  width: 79%;
+  border: 15px solid white;
+  border-radius: 50%;
+  box-shadow: 1px 1px 8px rgb(241, 124, 124);
+}

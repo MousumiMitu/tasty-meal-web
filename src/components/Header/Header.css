@@ -1,0 +1,35 @@
+.main-container {
+  width: 87%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  /* border: 1px solid red; */
+  padding: 10px 0;
+}
+.logo-img {
+  width: 20%;
+  margin: auto 0;
+  /* border: 1px solid red; */
+}
+.logo-img img {
+  width: 20%;
+  /* margin: auto 0; */
+}
+.primary-btn {
+  outline: none;
+  border: 2px solid #f10505;
+  background-color: white;
+  padding: 4px 17px;
+  border-radius: 20px;
+  font-weight: bold;
+}
+.secondary-btn {
+  outline: none;
+  border: white;
+  background: linear-gradient(to bottom, rgb(246, 78, 27), rgb(241, 5, 5));
+  padding: 6px 15px;
+  border-radius: 20px;
+  color: white;
+  font-weight: bold;
+}
